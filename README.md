@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://stackexchange.com/users/2918545/guru-stron"><img src="https://stackexchange.com/users/flair/2918545.png" width="208" height="58" alt="profile for Guru Stron on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Guru Stron on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
+
 <!--
 **gurustron/gurustron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
